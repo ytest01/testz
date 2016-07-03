@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1312,"scrollY":726},
+{"id":2,"expanded":true,"name":"町","order":2,"parentId":1,"scrollX":1312,"scrollY":726},
+{"id":3,"expanded":true,"name":"B1F","order":7,"parentId":4,"scrollX":1296,"scrollY":914},
+{"id":4,"expanded":true,"name":"クライ洞窟1F","order":6,"parentId":1,"scrollX":1296,"scrollY":1046},
+{"id":5,"expanded":true,"name":"B2F","order":8,"parentId":4,"scrollX":1296,"scrollY":966},
+{"id":6,"expanded":false,"name":"MAP006","order":9,"parentId":5,"scrollX":1312,"scrollY":726},
+{"id":7,"expanded":true,"name":"テント","order":3,"parentId":2,"scrollX":1312,"scrollY":726},
+{"id":8,"expanded":false,"name":"MAP008","order":10,"parentId":0,"scrollX":878.6666666666666,"scrollY":484},
+{"id":9,"expanded":true,"name":"武器屋","order":4,"parentId":2,"scrollX":1312,"scrollY":726},
+{"id":10,"expanded":false,"name":"防具屋","order":5,"parentId":9,"scrollX":1312,"scrollY":726}
+]

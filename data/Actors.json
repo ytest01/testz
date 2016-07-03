@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Package_02_Nina","characterIndex":1,"characterName":"Package1","classId":4,"equips":[1,0],"faceIndex":1,"faceName":"Package1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ニナ","nickname":"","note":"<equipSlotEx:1 2 2 2 3>\n<abilityNetBases:201,221,241,261,281,301> # 追加する起点アビリティID","profile":""}
+]
